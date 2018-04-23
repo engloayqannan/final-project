@@ -298,6 +298,67 @@ a {
     border: 1px solid #f9274b
 }
 /* End Contact Us */
+/* Start About Us Page */
+.about-us {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.about-us .content-about img {
+  width: 80%;
+  margin: auto;
+  display: block;
+}
+
+.about-us .content-about p {
+  font-size: 16px;
+  color: #777;
+  margin-top: 40px;
+  text-align: justify;
+}
+/* End About Us Page */
+/* Start Contact Us Page */
+.contact-us {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.contact-us .content-contact form {
+  width: 80%;
+  margin: auto;
+  display: block;
+}
+
+.contact-us .content-contact input {
+  display: block;
+  width: 80%;
+  outline: none;
+  border: 1px solid #CCC;
+  background-color: #FFF;
+  padding: 10px 14px;
+  margin: 20px auto;
+}
+
+.contact-us .content-contact button {
+  width: 250px;
+  padding: 10px;
+  margin-top: 35px;
+  -webkit-transition: 0.4s;
+  -o-transition: 0.4s;
+  -moz-transition: 0.4s;
+  transition: 0.4s;
+  cursor: pointer;
+  border: 1px solid #f9274b;
+  background: #f9274b;
+  color: #FFF;
+}
+
+.contact-us .content-contact button:hover {
+  border: 1px solid #f9274b;
+  background: #FFF;
+  color: #f9274b;
+}
+/* End Contact Us Page */
 /* Start Footer */
 .our-footer {
   padding: 40px 0;
